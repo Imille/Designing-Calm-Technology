@@ -30,3 +30,5 @@ We asked at the ["Designing Calm Technology"](https://www.webmarketingfestival.i
 We have create a Workshop Kit, with the exploration of [Amber Case](https://www.caseorganic.com) about theme:
 
 ![Cover](https://cdn-images-1.medium.com/max/1600/1*5iFphY0W9BNkKiz82FTd1A.png)
+
+##### [Read the article on medium](http://medium.com)
