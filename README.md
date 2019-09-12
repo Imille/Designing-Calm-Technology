@@ -1,7 +1,3 @@
-Designing-Calm-Technology
-
-
-
 # Designing Calm Technology
 ### Design for Humans
 
