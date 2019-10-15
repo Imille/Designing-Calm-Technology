@@ -31,4 +31,4 @@ We have create a Workshop Kit, with the exploration of [Amber Case](https://www.
 
 ![Cover](https://cdn-images-1.medium.com/max/1600/1*5iFphY0W9BNkKiz82FTd1A.png)
 
-#### [Read the article on Medium →](https://link.medium.com/K3VkjyoT3Z)
+#### [Read the article on Medium →](https://medium.com/redshirts/designing-calm-technology-aa8cc8ded0b4)
